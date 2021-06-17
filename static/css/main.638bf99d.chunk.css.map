@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,aACE,SAAU,CACX,KAGC,aAAc,CACd,SAAU,CACV,oBAAa,CAAb,YAAa,CACb,6BAAsB,CAAtB,qBAAsB,CACtB,aAAA,CAAA,QAAS","file":"main.638bf99d.chunk.css","sourcesContent":["// styles go here\n.input-block {\n  width: 25%;\n}\n\nform {\n  margin: 0 auto;\n  width: 30%;\n  display: flex;\n  flex-direction: column;\n  gap: 10px;\n}\n"]}
